@@ -23,9 +23,5 @@ for tc in range(int(input())):
             
         else:
             r = mid - 1
-     
     
     print("Case #{}: {}".format(tc + 1, l))
-    
-    
-    
